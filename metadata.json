@@ -1,0 +1,8 @@
+{
+  "name": "ecom-research-agent-prototype",
+  "description": "A production-minded E-Commerce Intelligence Research Agent prototype supporting Quick and Deep research modes, domain-aware memory, and automated insight generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
